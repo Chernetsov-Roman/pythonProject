@@ -1,3 +1,5 @@
+"""Урок по классам"""
+
 class Shape:
     """класс фигура"""
 
@@ -38,9 +40,5 @@ c = Ractangle(10, 20)
 c.Square()
 
 
-# a = Circle(10, 2, 4)
-# a.Square()
-#
-# a.ShowCentr()
 
 
