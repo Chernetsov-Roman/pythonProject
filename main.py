@@ -22,6 +22,8 @@ class Circle(Shape):
         print(f'Центр х = {self.x}, у = {self.y}')
 
 class Ractangle(Shape):
+    """Класс Прямоугольник"""
+    
     name = "Ractangle"
     def __init__(self, h, w):
         self.h = h
